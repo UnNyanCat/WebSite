@@ -1,0 +1,34 @@
+p{
+    color: #232c7f;
+}
+
+header{
+    background-color: #ff0000;
+}
+
+footer{
+    background-color: #8affd9;
+}
+
+p.header{
+    font-size: x-large;
+}
+
+p.footer{
+    font-size: medium;
+}
+
+p.mainPage{
+    font-size: x-large;
+    color: #9fff00;
+}
+
+a.commands{
+    color: #8ffff0;
+    font-size: x-large;
+}
+
+a.functions{
+    color: #8ffff0;
+    font-size: x-large;
+}
